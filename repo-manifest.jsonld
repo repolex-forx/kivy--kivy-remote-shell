@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/kivy/kivy-remote-shell/commit/e5d27ed151160faabfdb9a14ce758e886e5490da",
       "git:hexsha": "e5d27ed151160faabfdb9a14ce758e886e5490da",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
