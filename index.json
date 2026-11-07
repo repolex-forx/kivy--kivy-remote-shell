@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy-remote-shell",
+  "versions": [
+    {
+      "commit": "e5d27ed151160faabfdb9a14ce758e886e5490da",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:18:16.063249+00:00"
+    }
+  ]
+}
